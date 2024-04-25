@@ -9,7 +9,7 @@ setup(
     author="Starforge Labs",
     packages=find_packages(),
     install_requires=[
-        "serial"
+        "pyserial"
         # Add dependencies here. For instance, if the project depends on 'requests' you can add 'requests' to this list
     ],
     classifiers=[
